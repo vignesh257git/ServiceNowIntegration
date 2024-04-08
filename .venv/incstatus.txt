@@ -1,0 +1,10 @@
+Old Incident State Model	New Incident State Model
+
+New 1	                    New 1 
+Active 2 	                In Progress 2 
+Awaiting Problem 3	        On Hold 3 
+Awaiting User Info 4 	    On Hold 3 
+Awaiting Evidence 5 	    On Hold 3 
+Resolved 6	                Resolved 6 
+Closed 7 	                Closed 7 
+Canceled 8                  Canceled 8
