@@ -17,7 +17,7 @@ To get started with the project, follow these steps:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/vignesh257git/ServiceNowIntegration/tree/azfnbranch
 Set up your Azure Function environment:
 
 Create a .env file and add your environment variables. You'll need variables for your ServiceNow instance credentials, OpenAI API key, and any other necessary configurations.
