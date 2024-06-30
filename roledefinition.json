@@ -1,0 +1,20 @@
+{
+    "Name": "AKS Cluster Admin",
+    "Description": "Allows full access to AKS clusters",
+    "Actions": [
+        "Microsoft.ContainerService/managedClusters/*",
+        "Microsoft.ContainerService/locations/*",
+        "Microsoft.Authorization/*/read",
+        "Microsoft.Resources/subscriptions/resourceGroups/read",
+        "Microsoft.Resources/subscriptions/resourceGroups/resources/read",
+        "Microsoft.Network/*/read",
+        "Microsoft.Compute/*/read",
+        "Microsoft.Storage/*/read",
+        "Microsoft.Insights/alertRules/*",
+        "Microsoft.Insights/diagnosticSettings/*"
+    ],
+    "NotActions": [],
+    "DataActions": [],
+    "NotDataActions": [],
+    "AssignableScopes": ["/subscriptions/f5fc0cb6-2d35-4752-a0c4-30d5fbc140d6"]
+}
